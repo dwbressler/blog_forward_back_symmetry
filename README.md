@@ -1,1 +1,0 @@
-# blog_forward_back_symmetry
